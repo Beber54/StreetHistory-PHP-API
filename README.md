@@ -1,6 +1,6 @@
 # StreetHistory PHP API
 Student Project - PHP API for StreetHistory Android App - Metropolia University - Spring 2017<br>
-PHP code used for the <a href="">StreetHistory Android App</a>.
+PHP code used for the <a href="https://github.com/Beber54/StreetHistory">StreetHistory Android App</a>.
 
 ## Features
 - Get all the buildings in GeoJSON format (display them on the map)

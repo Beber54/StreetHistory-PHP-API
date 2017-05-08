@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 session_start();
 
 $db = new DB();
-$db->addConnection(parse_ini_file('src/conf/db.ios.api.ini'));
+$db->addConnection(parse_ini_file('src/conf/db.street.api.ini'));
 $db->setAsGlobal();
 $db->bootEloquent();
 

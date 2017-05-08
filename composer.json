@@ -1,0 +1,15 @@
+{
+  "require": {
+    "php": ">=5.0",
+    "slim/slim": "2.0.*",
+    "illuminate/database": "5.4.x-dev"
+  },
+
+  "autoload": {
+    "psr-0": {
+      "app": "src",
+      "conf": "src",
+      "utils": "src"
+    }
+  }
+}

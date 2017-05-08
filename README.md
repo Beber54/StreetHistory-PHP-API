@@ -12,8 +12,8 @@ PHP code used for the <a href="">StreetHistory Android App</a>.
 - Illuminate/Database
 - Slim Framework
 
-## Contribution
-If you have any ideas, do not hesitate to contact me. Every contribution is welcome.
-
 ## Diagram
 [<img src="http://res.cloudinary.com/dgd7c6j2m/image/upload/v1494248843/interaction_cmef6k.png" width=800>](http://res.cloudinary.com/dgd7c6j2m/image/upload/v1494248843/interaction_cmef6k.png)
+
+## Contribution
+If you have any ideas, do not hesitate to contact me. Every contribution is welcome.
